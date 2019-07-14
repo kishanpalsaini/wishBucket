@@ -552,7 +552,7 @@
 
     
     
-    <footer class="site-footer">
+    <footer class="site-footer kp-footer">
       <div class="container">
         <div class="row">
           <div class="col-md-4">
