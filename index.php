@@ -551,8 +551,7 @@
     </div>
 
     
-    
-    <footer class="site-footer new-footer">
+    <footer class="site-footer">
       <div class="container">
         <div class="row">
           <div class="col-md-4">
