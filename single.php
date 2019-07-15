@@ -29,23 +29,23 @@ RSS Feed: https://feeds.feedburner.com/Free-templateco
     
     
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,700, 900|Playfair+Display:400,900" rel="stylesheet">
-    <link rel="stylesheet" href="fonts/icomoon/style.css">
+    <link rel="stylesheet" href="assets/fonts/icomoon/style.css">
 
-    <link rel="stylesheet" href="css/bootstrap.min.css">
-    <link rel="stylesheet" href="css/jquery-ui.css">
-    <link rel="stylesheet" href="css/owl.carousel.min.css">
-    <link rel="stylesheet" href="css/owl.theme.default.min.css">
-    <link rel="stylesheet" href="css/owl.theme.default.min.css">
+    <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="assets/css/jquery-ui.css">
+    <link rel="stylesheet" href="assets/css/owl.carousel.min.css">
+    <link rel="stylesheet" href="assets/css/owl.theme.default.min.css">
+    <link rel="stylesheet" href="assets/css/owl.theme.default.min.css">
 
-    <link rel="stylesheet" href="css/jquery.fancybox.min.css">
+    <link rel="stylesheet" href="assets/css/jquery.fancybox.min.css">
 
-    <link rel="stylesheet" href="css/bootstrap-datepicker.css">
+    <link rel="stylesheet" href="assets/css/bootstrap-datepicker.css">
 
-    <link rel="stylesheet" href="fonts/flaticon/font/flaticon.css">
+    <link rel="stylesheet" href="assets/fonts/flaticon/font/flaticon.css">
 
-    <link rel="stylesheet" href="css/aos.css">
+    <link rel="stylesheet" href="assets/css/aos.css">
 
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="assets/css/style.css">
     
   </head>
   <body data-spy="scroll" data-target=".site-navbar-target" data-offset="300" id="home-section">
@@ -375,19 +375,19 @@ RSS Feed: https://feeds.feedburner.com/Free-templateco
 
   </div> <!-- .site-wrap -->
 
-  <script src="js/jquery-3.3.1.min.js"></script>
-  <script src="js/jquery-ui.js"></script>
-  <script src="js/popper.min.js"></script>
-  <script src="js/bootstrap.min.js"></script>
-  <script src="js/owl.carousel.min.js"></script>
-  <script src="js/jquery.countdown.min.js"></script>
-  <script src="js/jquery.easing.1.3.js"></script>
-  <script src="js/aos.js"></script>
-  <script src="js/jquery.fancybox.min.js"></script>
-  <script src="js/jquery.sticky.js"></script>
-  <script src="js/isotope.pkgd.min.js"></script>
+  <script src="assets/js/jquery-3.3.1.min.js"></script>
+  <script src="assets/js/jquery-ui.js"></script>
+  <script src="assets/js/popper.min.js"></script>
+  <script src="assets/js/bootstrap.min.js"></script>
+  <script src="assets/js/owl.carousel.min.js"></script>
+  <script src="assets/js/jquery.countdown.min.js"></script>
+  <script src="assets/js/jquery.easing.1.3.js"></script>
+  <script src="assets/js/aos.js"></script>
+  <script src="assets/js/jquery.fancybox.min.js"></script>
+  <script src="assets/js/jquery.sticky.js"></script>
+  <script src="assets/js/isotope.pkgd.min.js"></script>
   
-  <script src="js/typed.js"></script>
+  <script src="assets/js/typed.js"></script>
             <script>
             var typed = new Typed('.typed-words', {
             strings: ["Motivational Speakers","Professional Speakers","Business Speakers", "Professional Life Coach"],
@@ -400,7 +400,7 @@ RSS Feed: https://feeds.feedburner.com/Free-templateco
             });
             </script>
   
-  <script src="js/main.js"></script>
+  <script src="assets/js/main.js"></script>
 
   </body>
 </html>

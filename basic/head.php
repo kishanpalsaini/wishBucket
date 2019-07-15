@@ -46,6 +46,7 @@ RSS Feed: https://feeds.feedburner.com/Free-templateco
     <link rel="stylesheet" href="assets/css/aos.css">
 
     <link rel="stylesheet" href="assets/css/style.css">
+    <link rel="stylesheet" href="assets/css/new-style.css">
     
   </head>
   <body data-spy="scroll" data-target=".site-navbar-target" data-offset="300" id="home-section">
