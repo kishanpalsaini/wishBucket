@@ -73,7 +73,7 @@
 
         <div class="row justify-content-center">
           <div class="col-lg-4 col-md-6 text-center mb-5">
-            <img src="assets/images/WB5B3171.jpg" alt="Free Website Template by Free-Template.co" class="rounded-circle-about img-fluid w-50 mb-4 team-img">
+            <img src="uploads/gallery/WB5B3171.jpg" alt="Free Website Template by Free-Template.co" class="rounded-circle-about img-fluid w-50 mb-4 team-img">
             <h3 class="h4 text-black">Manish Kumar Saini</h3>
             <p>Director</p>
             <p>
@@ -84,7 +84,7 @@
             </p>
           </div>
           <div class="col-lg-3 col-md-6 text-center mb-5">
-            <img src="assets/images/WB5B3182.jpg" alt="Free Website Template by Free-Template.co" class="rounded-circle-about img-fluid w-50 mb-4">
+            <img src="uploads/gallery/WB5B3182.jpg" alt="Free Website Template by Free-Template.co" class="rounded-circle-about img-fluid w-50 mb-4">
             <h3 class="h4 text-black">Karan Verma</h3>
             <p>Director</p>
             <p>
@@ -110,32 +110,32 @@
         </div>
 
         <div class="nonloop-block-13 owl-style owl-carousel">
-          <div class="training">
-            <figure class="mb-4"><img src="assets/images/coach_1_sm.jpg" alt="Free website template by Free-Template.co" class="img-fluid"></figure>
+          <div class="training my-training">
+            <figure class="mb-4"><img src="uploads/gallery/vision-1.png" alt="Free website template by Free-Template.co" class="img-fluid"></figure>
             <h3 class="text-black mb-3">Good teaching techniques</h3>
             <p>Only if we have strong roots, we will succeed. Our new teaching methods will make teaching and learning both interesting and fun.  .</p>
           </div>
 
-          <div class="training">
-            <figure class="mb-4"><img src="assets/images/coach_2_sm.jpg" alt="Free website template by Free-Template.co" class="img-fluid"></figure>
+          <div class="training my-training">
+            <figure class="mb-4"><img src="uploads/gallery/vision-2.png" alt="Free website template by Free-Template.co" class="img-fluid"></figure>
             <h3 class="text-black mb-3">New ideas for innovation</h3>
             <p>We believe in doing something new. How beautiful would be if we were to see or do something new every time?</p>
           </div>
 
-          <div class="training">
-            <figure class="mb-4"><img src="assets/images/coach_3_sm.jpg" alt="Free website template by Free-Template.co" class="img-fluid"></figure>
+          <div class="training my-training">
+            <figure class="mb-4"><img src="uploads/gallery/vision-3.png" alt="Free website template by Free-Template.co" class="img-fluid"></figure>
             <h3 class="text-black mb-3"> Strong manpower</h3>
             <p>If every person gets the right path for his career, then a very strong relationship will be created between the company and the employees.</p>
           </div>
 
-          <div class="training">
-            <figure class="mb-4"><img src="assets/images/coach_1_sm.jpg" alt="Free website template by Free-Template.co" class="img-fluid"></figure>
+          <div class="training my-training">
+            <figure class="mb-4"><img src="uploads/gallery/vision-4.png" alt="Free website template by Free-Template.co" class="img-fluid"></figure>
             <h3 class="text-black mb-3">Proper guidance </h3>
             <p>We believe that no work is small; If you upgrade a small work, then it becomes bigger right guidance can make the wrong person correct.</p>
           </div>
 
-          <div class="training">
-            <figure class="mb-4"><img src="assets/images/coach_2_sm.jpg" alt="Free website template by Free-Template.co" class="img-fluid"></figure>
+          <div class="training my-training">
+            <figure class="mb-4"><img src="uploads/gallery/vision-5.png" alt="Free website template by Free-Template.co" class="img-fluid"></figure>
             <h3 class="text-black mb-3">Social awareness</h3>
             <p>Being social is also very important some techniques have made it very easy, and it is very important to know how to use it.</p>
           </div>
@@ -162,14 +162,18 @@
         </div>
 
         <div class="nonloop-block-13 owl-style owl-style-md owl-carousel">
-          <div class="service">
-            <div class="icon"><span class="flaticon-badge display-1 text-primary"></span></div>
+          <div class="service my-service">
+            <div class="icon">
+              <img src="uploads/gallery/service-1.png" alt="" class="w-100">
+          </div>
             <h3 class="text-black mb-3">Manpower supplier</h3>
             <p>We understand that simple wrong recruitment will make your experience worse that is why we value your time. We check every single quality in each candidate as per the job position/job requirement.</p>
           </div>
 
-          <div class="service">
-            <div class="icon"><span class="flaticon-target display-1 text-primary"></span></div>
+          <div class="service my-service">
+            <div class="icon">
+              <img src="uploads/gallery/service-2.png" alt="" class="w-100">
+          </div>
             <h3 class="text-black mb-3">Online learning</h3>
             <p>Right education is very important; we will teach you what is needed.</p>
           </div>
@@ -343,8 +347,7 @@
               <div class="blog-entry-text">
                 <h3><a href="single.html">5 Things You Need To Know About Dog Massage</a></h3>
                 <span class="post-meta mb-3 d-block">April 17, 2019</span>
-                <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
-                <p><a href="#" class="">Read More..</a></p>
+                <p><a href="blog.php?a=artical-1" class="">Read More..</a></p>
               </div>
             </div>
           </div>
@@ -356,13 +359,12 @@
               <div class="blog-entry-text">
                 <h3><a href="single.html">5 Things You Need To Know About Dog Massage</a></h3>
                 <span class="post-meta mb-3 d-block">April 17, 2019</span>
-                <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
-                <p><a href="#" class="">Read More..</a></p>
+                <p><a href="blog.php?a=artical-2" class="">Read More..</a></p>
               </div>
             </div>
 
           </div>
-
+<!-- 
           <div class="col-md-6 mb-4" data-aos="fade-up"  data-aos-delay="">
             <div class="d-lg-flex blog-entry">
               <figure class="mr-4">
@@ -388,7 +390,7 @@
                 <p><a href="#" class="">Read More..</a></p>
               </div>
             </div>
-          </div>
+          </div> -->
 
         </div>
       </div>
