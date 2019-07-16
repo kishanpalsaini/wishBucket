@@ -50,3 +50,10 @@ RSS Feed: https://feeds.feedburner.com/Free-templateco
     
   </head>
   <body data-spy="scroll" data-target=".site-navbar-target" data-offset="300" id="home-section">
+  
+  <div id="overlayer"></div>
+  <div class="loader">
+    <div class="spinner-border text-primary" role="status">
+      <span class="sr-only">Loading...</span>
+    </div>
+  </div>
