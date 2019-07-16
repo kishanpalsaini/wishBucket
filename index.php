@@ -113,7 +113,7 @@
       <div class="container">
         <div class="row">
           <div class="col-12 mb-3">
-            <h2 class="text-black">ABOUT US</h2>
+            <h2 class="text-black text-center">ABOUT US</h2>
             <!-- <a href="blog.php?a=artical-1">a-1</a> -->
           </div>
           <div class="col-md-12 mb-5">
@@ -128,8 +128,8 @@
           </div>
         </div>
 
-        <div class="row">
-          <div class="col-lg-6 text-center">
+        <div class="row justify-content-center">
+          <div class="col-lg-4 col-md-6 text-center mb-5">
             <img src="assets/images/WB5B3171.jpg" alt="Free Website Template by Free-Template.co" class="rounded-circle-about img-fluid w-50 mb-4 team-img">
             <h3 class="h4 text-black">Manish Kumar Saini</h3>
             <p>Director</p>
@@ -140,7 +140,7 @@
               <a href="#" class="pl-3 pr-3"><span class="icon-linkedin"></span></a>
             </p>
           </div>
-          <div class="col-lg-6 text-center">
+          <div class="col-lg-3 col-md-6 text-center mb-5">
             <img src="assets/images/WB5B3182.jpg" alt="Free Website Template by Free-Template.co" class="rounded-circle-about img-fluid w-50 mb-4">
             <h3 class="h4 text-black">Karan Verma</h3>
             <p>Director</p>
