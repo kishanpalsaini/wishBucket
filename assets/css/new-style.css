@@ -24,3 +24,18 @@
     -ms-border-radius: 50%;
     -o-border-radius: 50%;
 }
+
+/* our-vision */
+.my-training{
+    padding: 15px;
+}
+.my-training>figure>img{
+    object-fit: contain;
+    height: 200px;
+}
+
+/* our-service */
+.my-service>.icon>img{
+    object-fit: contain;
+    height: 200px;
+}

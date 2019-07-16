@@ -1,7 +1,7 @@
 <header class="site-navbar js-sticky-header site-navbar-target" role="banner" >
 
       <div class="container">
-        <div class="row align-items-center">
+        <div class="row align-items-center pt-3">
           
           <div class="col-4 col-xl-2">
             <h1 class="mb-0 site-logo">
@@ -17,9 +17,9 @@
 
               <ul class="site-menu main-menu js-clone-nav mr-auto d-none d-lg-block">
                 <li><a href="#home-section" class="nav-link">Home</a></li>
-                <li class="has-children">
+                <li>
                   <a href="#about-section" class="nav-link">About</a>
-                  <ul class="dropdown">
+                  <!-- <ul class="dropdown">
                     <li><a href="https://free-template.co" target="_blank" class="nav-link"><span class="text-primary">More Free Templates</span></a></li>
                     <li><a href="#training-section" class="nav-link">Our Training</a></li>
                     <li><a href="#testimonials-section" class="nav-link">Testimonials</a></li>
@@ -33,7 +33,7 @@
                         <li><a href="#">Menu Three</a></li>
                       </ul>
                     </li>
-                  </ul>
+                  </ul> -->
                 </li>
                 
                 <li><a href="#training-section" class="nav-link">Our Training</a></li>
