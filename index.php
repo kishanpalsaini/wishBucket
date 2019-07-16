@@ -80,7 +80,7 @@
               <a href="https://m.facebook.com/manish.saini123A?ref=bookmarks" class="pl-0 pr-3"><span class="icon-facebook"></span></a>
               <a href="https://twitter.com/manishs45596789?s=09" class="pl-3 pr-3"><span class="icon-twitter"></span></a>
               <a href="https://www.instagram.com/manishsaini.you/" class="pl-3 pr-3"><span class="icon-instagram"></span></a>
-              <a href="#" class="pl-3 pr-3"><span class="icon-linkedin"></span></a>
+              <!-- <a href="#" class="pl-3 pr-3"><span class="icon-linkedin"></span></a> -->
             </p>
           </div>
           <div class="col-lg-3 col-md-6 text-center mb-5">

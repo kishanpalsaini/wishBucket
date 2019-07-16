@@ -6,7 +6,7 @@
           <div class="col-4 col-xl-2">
             <h1 class="mb-0 site-logo">
             <!-- <a href="index.html" class="h2 mb-0">Coach<span class="text-primary">.</span> </a> -->
-            <a href="#">
+            <a href="index.php">
             <img src="assets/images/wishbucket.png" class="w-100">
             </a>
             </h1>
