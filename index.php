@@ -116,85 +116,41 @@
             <h2 class="text-black">ABOUT US</h2>
             <!-- <a href="blog.php?a=artical-1">a-1</a> -->
           </div>
-          <div class="col-md-6 mb-5">
+          <div class="col-md-12 mb-5">
             <p>Our WISHBUCKET has professionals who are involved in this business with professional etiquette. The staff members are experienced, trained and professionals in their respective departments. Our aim is to provide high-quality services to our valued clients.
             </p>
             <p>We have excellent preparation and we made proper plan and process for recruitment because we understand simple wrong recruitment will make your experience worse that is why we value your time
             </p>
             <p>We are supplying candidates professionally skilled, semi-skilled and non-skilled to our valuable clients.
             </p>
-            <!-- <p class="mt-5"><img src="assets/images/signature.jpg" alt="Free website template by Free-Template.co" class="img-fluid w-25"></p> -->
-           <a href="#">Read More</a>
-          </div>
-          <div class="col-md-5 ml-auto">
-            <h2 class="text-black mb-4 h6">Upcmoing Speaking Gigs</h2>
-            <ul class="list-unstyled">
-              <li class="mb-4">
-                <h3 class="text-black m-0">Build Conference</h3>
-                <span class="text-muted">Bristol, UK, 7th June 2019</span>
-              </li>
-              <li class="mb-4">
-                <h3 class="text-black m-0">The Life Conference</h3>
-                <span class="text-muted">London, UK, 19th September 2019</span>
-              </li>
-              <li class="mb-4">
-                <h3 class="text-black m-0">Build Conference</h3>
-                <span class="text-muted">Bristol, UK, 7th June 2019</span>
-              </li>
-              <li class="mb-4">
-                <h3 class="text-black m-0">The Life Conference</h3>
-                <span class="text-muted">London, UK, 19th September 2019</span>
-              </li>
-            </ul>
+            <!-- <p class="mt-5"><img src="assets/images/signature.jpg" alt="Free website template by Free-Template.co" class="img-fluid w-25"></p>
+           <a href="#">Read More</a> -->
           </div>
         </div>
 
         <div class="row">
-          <div class="col-lg-3 text-left">
-            <img src="uploads/images/WB5B3171.jpg" alt="Free Website Template by Free-Template.co" class="rounded-circle img-fluid w-50 mb-4 team-img">
+          <div class="col-lg-6 text-center">
+            <img src="assets/images/WB5B3171.jpg" alt="Free Website Template by Free-Template.co" class="rounded-circle-about img-fluid w-50 mb-4 team-img">
             <h3 class="h4 text-black">Manish Kumar Saini</h3>
             <p>Director</p>
             <p>
-              <a href="https://m.facebook.com/manish.saini123A?ref=bookmarks
-              " class="pl-0 pr-3"><span class="icon-facebook"></span></a>
+              <a href="https://m.facebook.com/manish.saini123A?ref=bookmarks" class="pl-0 pr-3"><span class="icon-facebook"></span></a>
               <a href="https://twitter.com/manishs45596789?s=09" class="pl-3 pr-3"><span class="icon-twitter"></span></a>
               <a href="https://www.instagram.com/manishsaini.you/" class="pl-3 pr-3"><span class="icon-instagram"></span></a>
               <a href="#" class="pl-3 pr-3"><span class="icon-linkedin"></span></a>
             </p>
           </div>
-          <div class="col-lg-3 text-left">
-            <img src="uploads/images/WB5B3182.jpg" alt="Free Website Template by Free-Template.co" class="rounded-circle img-fluid w-50 mb-4">
+          <div class="col-lg-6 text-center">
+            <img src="assets/images/WB5B3182.jpg" alt="Free Website Template by Free-Template.co" class="rounded-circle-about img-fluid w-50 mb-4">
             <h3 class="h4 text-black">Karan Verma</h3>
             <p>Director</p>
             <p>
-              <a href="#" class="pl-0 pr-3"><span class="icon-facebook"></span></a>
-              <a href="#" class="pl-3 pr-3"><span class="icon-twitter"></span></a>
-              <a href="#" class="pl-3 pr-3"><span class="icon-instagram"></span></a>
-              <a href="#" class="pl-3 pr-3"><span class="icon-linkedin"></span></a>
+              <a href="https://m.facebook.com/smarty.k.verma" class="pl-0 pr-3"><span class="icon-facebook"></span></a>
+              <a href="https://mobile.twitter.com/karanverma12911" class="pl-3 pr-3"><span class="icon-twitter"></span></a>
+              <a href="https://www.instagram.com/iiam_karan/" class="pl-3 pr-3"><span class="icon-instagram"></span></a>
+              <a href="https://www.linkedin.com/in/karan-verma-9650a718b" class="pl-3 pr-3"><span class="icon-linkedin"></span></a>
             </p>
 
-          </div>
-          <div class="col-lg-3 text-left">
-            <img src="assets/images/person_3.jpg" alt="Free Website Template by Free-Template.co" class="rounded-circle img-fluid w-50 mb-4">
-            <h3 class="h4 text-black">Parker</h3>
-            <p>Director</p>
-            <p>
-              <a href="#" class="pl-0 pr-3"><span class="icon-facebook"></span></a>
-              <a href="#" class="pl-3 pr-3"><span class="icon-twitter"></span></a>
-              <a href="#" class="pl-3 pr-3"><span class="icon-instagram"></span></a>
-              <a href="#" class="pl-3 pr-3"><span class="icon-linkedin"></span></a>
-            </p>
-          </div>
-          <div class="col-lg-3 text-left">
-            <img src="assets/images/person_4.jpg" alt="Free Website Template by Free-Template.co" class="rounded-circle img-fluid w-50 mb-4">
-            <h3 class="h4 text-black">Kyle</h3>
-            <p>Director</p>
-            <p>
-              <a href="#" class="pl-0 pr-3"><span class="icon-facebook"></span></a>
-              <a href="#" class="pl-3 pr-3"><span class="icon-twitter"></span></a>
-              <a href="#" class="pl-3 pr-3"><span class="icon-instagram"></span></a>
-              <a href="#" class="pl-3 pr-3"><span class="icon-linkedin"></span></a>
-            </p>
           </div>
         </div>
       </div>
@@ -205,47 +161,47 @@
       <div class="container">
         <div class="row mb-5 justify-content-center">
           <div class="col-md-7 text-center">
-            <h2 class="text-black">Our Training</h2>
-            <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.</p>
+            <h2 class="text-black">Our Vision</h2>
+            <p>Our vision is that which shows us beautiful futures and by making them a reality, we can improve our tomorrow, more than today.</p>
           </div>
         </div>
 
         <div class="nonloop-block-13 owl-style owl-carousel">
           <div class="training">
             <figure class="mb-4"><img src="assets/images/coach_1_sm.jpg" alt="Free website template by Free-Template.co" class="img-fluid"></figure>
-            <h3 class="text-black mb-3">Life Coach Training</h3>
-            <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+            <h3 class="text-black mb-3">Good teaching techniques</h3>
+            <p>Only if we have strong roots, we will succeed. Our new teaching methods will make teaching and learning both interesting and fun.  .</p>
           </div>
 
           <div class="training">
             <figure class="mb-4"><img src="assets/images/coach_2_sm.jpg" alt="Free website template by Free-Template.co" class="img-fluid"></figure>
-            <h3 class="text-black mb-3">Release Your Potential</h3>
-            <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+            <h3 class="text-black mb-3">New ideas for innovation</h3>
+            <p>We believe in doing something new. How beautiful would be if we were to see or do something new every time?</p>
           </div>
 
           <div class="training">
             <figure class="mb-4"><img src="assets/images/coach_3_sm.jpg" alt="Free website template by Free-Template.co" class="img-fluid"></figure>
-            <h3 class="text-black mb-3">Transforming Lives</h3>
-            <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+            <h3 class="text-black mb-3"> Strong manpower</h3>
+            <p>If every person gets the right path for his career, then a very strong relationship will be created between the company and the employees.</p>
           </div>
 
           <div class="training">
             <figure class="mb-4"><img src="assets/images/coach_1_sm.jpg" alt="Free website template by Free-Template.co" class="img-fluid"></figure>
-            <h3 class="text-black mb-3">Life Coach Training</h3>
-            <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+            <h3 class="text-black mb-3">Proper guidance </h3>
+            <p>We believe that no work is small; If you upgrade a small work, then it becomes bigger right guidance can make the wrong person correct.</p>
           </div>
 
           <div class="training">
             <figure class="mb-4"><img src="assets/images/coach_2_sm.jpg" alt="Free website template by Free-Template.co" class="img-fluid"></figure>
-            <h3 class="text-black mb-3">Release Your Potential</h3>
-            <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+            <h3 class="text-black mb-3">Social awareness</h3>
+            <p>Being social is also very important some techniques have made it very easy, and it is very important to know how to use it.</p>
           </div>
-
+<!-- 
           <div class="training">
             <figure class="mb-4"><img src="assets/images/coach_3_sm.jpg" alt="Free website template by Free-Template.co" class="img-fluid"></figure>
             <h3 class="text-black mb-3">Transforming Lives</h3>
             <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
-          </div>
+          </div> -->
         </div>
 
       </div>
@@ -258,23 +214,23 @@
         <div class="row mb-5 justify-content-center">
           <div class="col-md-7 text-center">
             <h2 class="text-black">Our Services</h2>
-            <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.</p>
+            <p>We believe in doing all the work well, all our people are very experienced and everyone specializes in their work.</p>
           </div>
         </div>
 
         <div class="nonloop-block-13 owl-style owl-style-md owl-carousel">
           <div class="service">
             <div class="icon"><span class="flaticon-badge display-1 text-primary"></span></div>
-            <h3 class="text-black mb-3">Life Coach Training</h3>
-            <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+            <h3 class="text-black mb-3">Manpower supplier</h3>
+            <p>We understand that simple wrong recruitment will make your experience worse that is why we value your time. We check every single quality in each candidate as per the job position/job requirement.</p>
           </div>
 
           <div class="service">
             <div class="icon"><span class="flaticon-target display-1 text-primary"></span></div>
-            <h3 class="text-black mb-3">Release Your Potential</h3>
-            <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+            <h3 class="text-black mb-3">Online learning</h3>
+            <p>Right education is very important; we will teach you what is needed.</p>
           </div>
-
+<!-- 
           <div class="service">
             <div class="icon"><span class="flaticon-agreement display-1 text-primary"></span></div>
             <h3 class="text-black mb-3">Transforming Lives</h3>
@@ -298,7 +254,7 @@
             <div class="icon"><span class="flaticon-bar-chart display-1 text-primary"></span></div>
             <h3 class="text-black mb-3">Transforming Lives</h3>
             <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
-          </div>
+          </div> -->
         </div>
 
       </div>

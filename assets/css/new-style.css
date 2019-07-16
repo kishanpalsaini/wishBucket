@@ -9,3 +9,15 @@
     font-family: inherit;
     color: orangered;
 }
+
+
+/* index-about */
+.rounded-circle-about{
+    width: 150px !important;
+    height: 150px;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+}
