@@ -17,7 +17,7 @@ RSS Feed: https://feeds.feedburner.com/Free-templateco
 <!doctype html>
 <html lang="en">
   <head>
-    <title>Coach &mdash; Free Website Template by Free-Template.co</title>
+    <title>WishBucket</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     

@@ -77,7 +77,7 @@
         </div>
 
         <div class="row justify-content-center">
-          <div class="col-lg-4 col-md-6 text-center mb-5">
+          <div class="col-lg-4 col-md-6 text-center mb-5 about-img">
             <img src="uploads/gallery/about-1.jpg" alt="Free Website Template by Free-Template.co" class="rounded-circle-about img-fluid w-50 mb-4 team-img">
             <h3 class="h4 text-black">Manish Kumar Saini</h3>
             <p>Director</p>
@@ -88,7 +88,7 @@
               <!-- <a href="#" class="pl-3 pr-3"><span class="icon-linkedin"></span></a> -->
             </p>
           </div>
-          <div class="col-lg-3 col-md-6 text-center mb-5">
+          <div class="col-lg-3 col-md-6 text-center mb-5 about-img">
             <img src="uploads/gallery/about-2.jpg" alt="Free Website Template by Free-Template.co" class="rounded-circle-about img-fluid w-50 mb-4">
             <h3 class="h4 text-black">Karan Verma</h3>
             <p>Director</p>
@@ -349,7 +349,7 @@
               <figure class="mr-4">
                 <a href="single.html"><img src="uploads/gallery/blog-1.jpg" class="img-fluid rounded"></a>
               </figure>
-              <div class="blog-entry-text">
+              <div class="blog-entry-text blog-text">
                 <h3><a href="single.html">How to answer the 10 Most Common Interview Questions for fresher’s (unskilled)</a></h3>
                 <span class="post-meta mb-3 d-block">July 17, 2019</span>
                 <p><a href="blog.php?a=artical-1" class="">Read More..</a></p>

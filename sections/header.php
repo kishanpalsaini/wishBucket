@@ -3,7 +3,7 @@
       <div class="container">
         <div class="row align-items-center pt-3">
           
-          <div class="col-4 col-xl-2">
+          <div class="col-3 col-xl-2">
             <h1 class="mb-0 site-logo">
             <!-- <a href="index.html" class="h2 mb-0">Coach<span class="text-primary">.</span> </a> -->
             <a href="index.php">

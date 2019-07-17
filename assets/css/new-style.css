@@ -20,7 +20,10 @@
     object-fit: contain;
     height: 100%;
 }
-
+/* about */
+.about-img img{
+    object-fit: cover;
+}
 /* index-about */
 .rounded-circle-about{
     width: 105px !important;
@@ -45,4 +48,14 @@
 .my-service>.icon>img{
     object-fit: contain;
     height: 200px;
+}
+
+/* blog */
+.blog-text>h3>a{
+    text-overflow: ellipsis !important;
+    width: 233px;
+    overflow: hidden;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    display: -webkit-box;
 }
