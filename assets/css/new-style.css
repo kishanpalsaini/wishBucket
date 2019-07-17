@@ -12,7 +12,14 @@
 .sub-heading-color{
     color: #444;
 }
-
+/* head-slider */
+.head-slider .owl-item{
+    height: 620px;
+}
+.head-slider img{
+    object-fit: contain;
+    height: 100%;
+}
 
 /* index-about */
 .rounded-circle-about{
