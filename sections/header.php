@@ -21,7 +21,7 @@
                   <a href="#about-section" class="nav-link">About</a>
                   <!-- <ul class="dropdown">
                     <li><a href="https://free-template.co" target="_blank" class="nav-link"><span class="text-primary">More Free Templates</span></a></li>
-                    <li><a href="#training-section" class="nav-link">Our Training</a></li>
+                    <li><a href="#training-section" class="nav-link">Our Vision</a></li>
                     <li><a href="#testimonials-section" class="nav-link">Testimonials</a></li>
                     <li><a href="#gallery-section" class="nav-link">Gallery</a></li>
                     <li><a href="#blog-section" class="nav-link">Blog</a></li>
@@ -36,7 +36,7 @@
                   </ul> -->
                 </li>
                 
-                <li><a href="#training-section" class="nav-link">Our Training</a></li>
+                <li><a href="#training-section" class="nav-link">Our Vision</a></li>
                 <li><a href="#services-section" class="nav-link">Services</a></li>
                 <li><a href="#contact-section" class="nav-link">Contact</a></li>
               </ul>

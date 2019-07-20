@@ -3,7 +3,7 @@
         <div class="row align-items-center justify-content-center">
             <div class="col-md-12 mt-lg-5 text-center">
                 <h1>Interview tips </h1>
-                <p class="post-meta">July 15, 2019 &bull; Posted by <a href="#">Manish Kumar</a> in <a
+                <p class="post-meta">July 15, 2019 &bull; Posted by <a href="#">Manish Kumar Saini</a> in <a
                         href="#">Events</a></p>
             </div>
         </div>

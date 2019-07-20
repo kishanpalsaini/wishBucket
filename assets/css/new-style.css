@@ -1,3 +1,4 @@
+
 /* Blogs-Pages */
 .main-heading{
     font-family: inherit;   
@@ -10,7 +11,7 @@
     color: #ca9832;
 }
 .sub-heading-color{
-    color: #444;
+    color: #000;
 }
 /* head-slider */
 .head-slider .owl-item{
@@ -58,4 +59,8 @@
     -webkit-line-clamp: 2;
     -webkit-box-orient: vertical;
     display: -webkit-box;
+}
+
+.blog-content{
+    color: #033334;
 }

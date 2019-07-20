@@ -89,22 +89,22 @@ RSS Feed: https://feeds.feedburner.com/Free-templateco
                   <a href="index.html#about-section" class="nav-link">About</a>
                   <ul class="dropdown">
                     <li><a href="https://free-template.co" target="_blank" class="nav-link"><span class="text-primary">More Free Templates</span></a></li>
-                    <li><a href="index.html#training-section" class="nav-link">Our Training</a></li>
+                    <li><a href="index.html#training-section" class="nav-link">Our Vision</a></li>
                     <li><a href="index.html#testimonials-section" class="nav-link">Testimonials</a></li>
                     <li><a href="index.html#gallery-section" class="nav-link">Gallery</a></li>
                     <li><a href="index.html#blog-section" class="nav-link">Blog</a></li>
                     <li class="has-children">
-                      <a href="#">More Links</a>
+                      <a href="javascript:;">More Links</a>
                       <ul class="dropdown">
-                        <li><a href="#">Menu One</a></li>
-                        <li><a href="#">Menu Two</a></li>
-                        <li><a href="#">Menu Three</a></li>
+                        <li><a href="javascript:;">Menu One</a></li>
+                        <li><a href="javascript:;">Menu Two</a></li>
+                        <li><a href="javascript:;">Menu Three</a></li>
                       </ul>
                     </li>
                   </ul>
                 </li>
                 
-                <li><a href="index.html#training-section" class="nav-link">Our Training</a></li>
+                <li><a href="index.html#training-section" class="nav-link">Our Vision</a></li>
                 <li><a href="index.html#services-section" class="nav-link">Services</a></li>
                 <li><a href="index.html#contact-section" class="nav-link">Contact</a></li>
               </ul>
@@ -112,7 +112,7 @@ RSS Feed: https://feeds.feedburner.com/Free-templateco
           </div>
 
 
-          <div class="col-6 d-inline-block d-xl-none ml-md-0 py-3" style="position: relative; top: 3px;"><a href="#" class="site-menu-toggle js-menu-toggle float-right"><span class="icon-menu h3"></span></a></div>
+          <div class="col-6 d-inline-block d-xl-none ml-md-0 py-3" style="position: relative; top: 3px;"><a href="javascript:;" class="site-menu-toggle js-menu-toggle float-right"><span class="icon-menu h3"></span></a></div>
 
         </div>
       </div>
@@ -125,7 +125,7 @@ RSS Feed: https://feeds.feedburner.com/Free-templateco
         <div class="row align-items-center justify-content-center">
           <div class="col-md-12 mt-lg-5 text-center">
             <h1>5 Things You Need To Know About Dog Massage</h1>
-            <p class="post-meta">April 17, 2019 &bull; Posted by <a href="#">Free-Template.co</a> in <a href="#">Events</a></p>
+            <p class="post-meta">April 17, 2019 &bull; Posted by <a href="javascript:;">Free-Template.co</a> in <a href="javascript:;">Events</a></p>
           </div>
         </div>
       </div>
@@ -164,7 +164,7 @@ RSS Feed: https://feeds.feedburner.com/Free-templateco
             <p>Consectetur porro odio quod iure quaerat cupiditate similique, dolor reprehenderit molestias provident, esse dolorum omnis architecto magni amet corrupti neque ratione sunt beatae perspiciatis? Iste pariatur omnis sed ut itaque.</p>
             <p>Id similique, rem ipsam accusantium iusto dolores sit velit ex quas ea atque, molestiae. Sint, sed. Quisquam, suscipit! Quisquam quibusdam maiores fugiat eligendi eius consequuntur, molestiae saepe commodi expedita nemo!</p>
             <div class="pt-5">
-              <p>Categories:  <a href="#">Design</a>, <a href="#">Events</a>  Tags: <a href="#">#html</a>, <a href="#">#trends</a></p>
+              <p>Categories:  <a href="javascript:;">Design</a>, <a href="javascript:;">Events</a>  Tags: <a href="javascript:;">#html</a>, <a href="javascript:;">#trends</a></p>
             </div>
 
 
@@ -179,7 +179,7 @@ RSS Feed: https://feeds.feedburner.com/Free-templateco
                     <h3>Jean Doe</h3>
                     <div class="meta">January 9, 2018 at 2:21pm</div>
                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur quidem laborum necessitatibus, ipsam impedit vitae autem, eum officia, fugiat saepe enim sapiente iste iure! Quam voluptas earum impedit necessitatibus, nihil?</p>
-                    <p><a href="#" class="reply">Reply</a></p>
+                    <p><a href="javascript:;" class="reply">Reply</a></p>
                   </div>
                 </li>
 
@@ -191,7 +191,7 @@ RSS Feed: https://feeds.feedburner.com/Free-templateco
                     <h3>Jean Doe</h3>
                     <div class="meta">January 9, 2018 at 2:21pm</div>
                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur quidem laborum necessitatibus, ipsam impedit vitae autem, eum officia, fugiat saepe enim sapiente iste iure! Quam voluptas earum impedit necessitatibus, nihil?</p>
-                    <p><a href="#" class="reply">Reply</a></p>
+                    <p><a href="javascript:;" class="reply">Reply</a></p>
                   </div>
 
                   <ul class="children">
@@ -203,7 +203,7 @@ RSS Feed: https://feeds.feedburner.com/Free-templateco
                         <h3>Jean Doe</h3>
                         <div class="meta">January 9, 2018 at 2:21pm</div>
                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur quidem laborum necessitatibus, ipsam impedit vitae autem, eum officia, fugiat saepe enim sapiente iste iure! Quam voluptas earum impedit necessitatibus, nihil?</p>
-                        <p><a href="#" class="reply">Reply</a></p>
+                        <p><a href="javascript:;" class="reply">Reply</a></p>
                       </div>
 
 
@@ -216,7 +216,7 @@ RSS Feed: https://feeds.feedburner.com/Free-templateco
                             <h3>Jean Doe</h3>
                             <div class="meta">January 9, 2018 at 2:21pm</div>
                             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur quidem laborum necessitatibus, ipsam impedit vitae autem, eum officia, fugiat saepe enim sapiente iste iure! Quam voluptas earum impedit necessitatibus, nihil?</p>
-                            <p><a href="#" class="reply">Reply</a></p>
+                            <p><a href="javascript:;" class="reply">Reply</a></p>
                           </div>
 
                             <ul class="children">
@@ -228,7 +228,7 @@ RSS Feed: https://feeds.feedburner.com/Free-templateco
                                   <h3>Jean Doe</h3>
                                   <div class="meta">January 9, 2018 at 2:21pm</div>
                                   <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur quidem laborum necessitatibus, ipsam impedit vitae autem, eum officia, fugiat saepe enim sapiente iste iure! Quam voluptas earum impedit necessitatibus, nihil?</p>
-                                  <p><a href="#" class="reply">Reply</a></p>
+                                  <p><a href="javascript:;" class="reply">Reply</a></p>
                                 </div>
                               </li>
                             </ul>
@@ -246,7 +246,7 @@ RSS Feed: https://feeds.feedburner.com/Free-templateco
                     <h3>Jean Doe</h3>
                     <div class="meta">January 9, 2018 at 2:21pm</div>
                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur quidem laborum necessitatibus, ipsam impedit vitae autem, eum officia, fugiat saepe enim sapiente iste iure! Quam voluptas earum impedit necessitatibus, nihil?</p>
-                    <p><a href="#" class="reply">Reply</a></p>
+                    <p><a href="javascript:;" class="reply">Reply</a></p>
                   </div>
                 </li>
               </ul>
@@ -293,17 +293,17 @@ RSS Feed: https://feeds.feedburner.com/Free-templateco
             <div class="sidebar-box">
               <div class="categories">
                 <h3>Categories</h3>
-                <li><a href="#">Coaching <span>(12)</span></a></li>
-                <li><a href="#">Counselling <span>(22)</span></a></li>
-                <li><a href="#">Design <span>(37)</span></a></li>
-                <li><a href="#">Events<span>(42)</span></a></li>
+                <li><a href="javascript:;">Coaching <span>(12)</span></a></li>
+                <li><a href="javascript:;">Counselling <span>(22)</span></a></li>
+                <li><a href="javascript:;">Design <span>(37)</span></a></li>
+                <li><a href="javascript:;">Events<span>(42)</span></a></li>
               </div>
             </div>
             <div class="sidebar-box">
               <img src="images/person_1.jpg" alt="Image placeholder" class="img-fluid mb-4">
               <h3>About The Author</h3>
               <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ducimus itaque, autem necessitatibus voluptate quod mollitia delectus aut, sunt placeat nam vero culpa sapiente consectetur similique, inventore eos fugit cupiditate numquam!</p>
-              <p><a href="#" class="btn btn-primary btn-sm">Read More</a></p>
+              <p><a href="javascript:;" class="btn btn-primary btn-sm">Read More</a></p>
             </div>
 
             <div class="sidebar-box">
@@ -330,7 +330,7 @@ RSS Feed: https://feeds.feedburner.com/Free-templateco
             <h2 class="footer-heading mb-4">Quick Links</h2>
             <ul class="list-unstyled">
               <li><a href="#about-section" class="smoothscroll">About Us</a></li>
-              <li><a href="#training-section" class="smoothscroll">Our Training</a></li>
+              <li><a href="#training-section" class="smoothscroll">Our Vision</a></li>
               <li><a href="#services-section" class="smoothscroll">Services</a></li>
               <li><a href="#testimonials-section" class="smoothscroll">Testimonials</a></li>
               <li><a href="#contact-section" class="smoothscroll">Contact Us</a></li>
@@ -340,10 +340,10 @@ RSS Feed: https://feeds.feedburner.com/Free-templateco
           <div class="col-md-4">
             <div class="mb-5">
               <h2 class="footer-heading mb-4">Follow Us</h2>
-              <a href="#" class="pl-0 pr-3"><span class="icon-facebook"></span></a>
-              <a href="#" class="pl-3 pr-3"><span class="icon-twitter"></span></a>
-              <a href="#" class="pl-3 pr-3"><span class="icon-instagram"></span></a>
-              <a href="#" class="pl-3 pr-3"><span class="icon-linkedin"></span></a>
+              <a href="javascript:;" class="pl-0 pr-3"><span class="icon-facebook"></span></a>
+              <a href="javascript:;" class="pl-3 pr-3"><span class="icon-twitter"></span></a>
+              <a href="javascript:;" class="pl-3 pr-3"><span class="icon-instagram"></span></a>
+              <a href="javascript:;" class="pl-3 pr-3"><span class="icon-linkedin"></span></a>
             </div>
 
             <h2 class="footer-heading mb-4">Subscribe Newsletter</h2>

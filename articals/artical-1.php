@@ -5,7 +5,7 @@
         <div class="row align-items-center justify-content-center">
             <div class="col-md-12 mt-lg-5 text-center">
                 <h1>How to answer the 10 Most Common Interview Questions for fresher’s (unskilled)</h1>
-                <p class="post-meta">July 15, 2019 &bull; Posted by <a href="#">Manish Kumar</a> in <a
+                <p class="post-meta">July 15, 2019 &bull; Posted by <a href="#">Manish Kumar Saini</a> in <a
                         href="#">Events</a></p>
             </div>
         </div>

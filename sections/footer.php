@@ -10,11 +10,11 @@
           <div class="col-md-3 ml-auto">
             <h2 class="footer-heading mb-4">Quick Links</h2>
             <ul class="list-unstyled">
-              <li><a href="#about-section" class="smoothscroll">About Us</a></li>
-              <li><a href="#training-section" class="smoothscroll">Our Training</a></li>
-              <li><a href="#services-section" class="smoothscroll">Services</a></li>
-              <li><a href="#testimonials-section" class="smoothscroll">Our Quotes</a></li>
-              <li><a href="#contact-section" class="smoothscroll">Contact Us</a></li>
+              <li><a href="index.php#about-section" class="smoothscroll">About Us</a></li>
+              <li><a href="index.php#training-section" class="smoothscroll">Our Vision</a></li>
+              <li><a href="index.php#services-section" class="smoothscroll">Services</a></li>
+              <li><a href="index.php#testimonials-section" class="smoothscroll">Our Quotes</a></li>
+              <li><a href="index.php#contact-section" class="smoothscroll">Contact Us</a></li>
             </ul>
           </div>
 
