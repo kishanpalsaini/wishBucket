@@ -13,11 +13,8 @@ Twitter:  https://twitter.com/Free_Templateco
 RSS Feed: https://feeds.feedburner.com/Free-templateco
 
 ////////////////////////////////////////////////////////////////
--->
+-->  
 <?php require 'basic/head.php' ;?>
-
-
-
 
 <div class="site-wrap">
 
@@ -32,15 +29,17 @@ RSS Feed: https://feeds.feedburner.com/Free-templateco
 
  <!-- header -->
  <?php require 'sections/header.php'; ?>
-
-    <?php 
+ 
+    <?php        
         $articalName = $_GET['a'];
-        require("articals/".$articalName.".php");
+        require("articals/".$articalName.".php");     
     ?>
 
+    
 <!-- footer -->
 <?php require 'sections/footer.php'; ?>
 
 </div> <!-- .site-wrap -->
 
 <?php require 'basic/foot.php'; ?>
+
