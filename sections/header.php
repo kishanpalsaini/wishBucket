@@ -35,7 +35,6 @@
                     </li>
                   </ul> -->
                 </li>
-                
                 <li><a href="#training-section" class="nav-link">Our Vision</a></li>
                 <li><a href="#services-section" class="nav-link">Services</a></li>
                 <li><a href="#contact-section" class="nav-link">Contact</a></li>

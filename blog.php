@@ -14,7 +14,12 @@ RSS Feed: https://feeds.feedburner.com/Free-templateco
 
 ////////////////////////////////////////////////////////////////
 -->  
-<?php require 'basic/head.php' ;?>
+<?php 
+    require 'basic/head.php' ;
+    if( !isset($_GET['a'])){
+        header("Location: index.php");
+    }
+?>
 
 <div class="site-wrap">
 
@@ -32,7 +37,7 @@ RSS Feed: https://feeds.feedburner.com/Free-templateco
  
     <?php        
         $articalName = $_GET['a'];
-        require("articals/".$articalName.".php");     
+        require("articals/".$articalName.".php");    
     ?>
 
     
