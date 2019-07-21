@@ -16,9 +16,9 @@
             <nav class="site-navigation position-relative text-right" role="navigation">
 
               <ul class="site-menu main-menu js-clone-nav mr-auto d-none d-lg-block">
-                <li><a href="#home-section" class="nav-link">Home</a></li>
+                <li><a href="<?php echo empty(isset($_GET["a"])) ? "" : "index.php"; ?>#home-section" class="nav-link">Home</a></li>
                 <li>
-                  <a href="#about-section" class="nav-link">About</a>
+                  <a href="<?php echo empty(isset($_GET["a"])) ? "" : "index.php"; ?>#about-section" class="nav-link">About</a>
                   <!-- <ul class="dropdown">
                     <li><a href="https://free-template.co" target="_blank" class="nav-link"><span class="text-primary">More Free Templates</span></a></li>
                     <li><a href="#training-section" class="nav-link">Our Vision</a></li>
@@ -35,9 +35,9 @@
                     </li>
                   </ul> -->
                 </li>
-                <li><a href="#training-section" class="nav-link">Our Vision</a></li>
-                <li><a href="#services-section" class="nav-link">Services</a></li>
-                <li><a href="#contact-section" class="nav-link">Contact</a></li>
+                <li><a href="<?php echo empty(isset($_GET["a"])) ? "" : "index.php"; ?>#training-section" class="nav-link">Our Vision</a></li>
+                <li><a href="<?php echo empty(isset($_GET["a"])) ? "" : "index.php"; ?>#services-section" class="nav-link">Services</a></li>
+                <li><a href="<?php echo empty(isset($_GET["a"])) ? "" : "index.php"; ?>#contact-section" class="nav-link">Contact</a></li>
               </ul>
             </nav>
           </div>

@@ -423,7 +423,7 @@
                             <h3><a href="single.html">How to answer the 10 Most Common Interview Questions for fresher’s
                                     (unskilled)</a></h3>
                             <span class="post-meta mb-3 d-block">July 17, 2019</span>
-                            <p><a href="blog.php?a=artical-1" class="">Read More..</a></p>
+                            <p><a href="blog.php?a=How-to-answer-the-10-Most-Common-Interview-Questions" class="">Read More..</a></p>
                         </div>
                     </div>
                 </div>
@@ -436,7 +436,7 @@
                         <div class="blog-entry-text">
                             <h3><a href="single.html">Interview tips</a></h3>
                             <span class="post-meta mb-3 d-block">july 16, 2019</span>
-                            <p><a href="blog.php?a=artical-2" class="">Read More..</a></p>
+                            <p><a href="blog.php?a=Interview-tips" class="">Read More..</a></p>
                         </div>
                     </div>
 
